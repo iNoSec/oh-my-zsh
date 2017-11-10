@@ -6,5 +6,5 @@ I create this theme because i dont find this so beautiful bash prompt wich is th
 Feel free to share but hope you link here for the little job i make. thanks
 
 Based on darkblood 
-![Alt text](http://hpics.li/5591a05 "Parrot theme")
+<a target="_blank" href="http://www.hostingpics.net" title="Hebergeur d'image"><img src="https://img4.hostingpics.net/pics/693655zshparrot.png" border="0" alt="Hebergeur d'image" /></a>
 
